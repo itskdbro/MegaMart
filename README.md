@@ -1,5 +1,7 @@
 # MegaMart by Keshav Dhawan
 
+🔗Live Preview - https://megamart-by-kd.netlify.app/
+
 🌟 Dive into the world of seamless online shopping with MegaMart, a meticulously crafted e-commerce platform built entirely on React.js. With a focus on modern frontend practices, this project embodies innovation and user-centric design.
 
 
